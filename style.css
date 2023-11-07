@@ -1,0 +1,15 @@
+@media (max-width: 400px) {
+    #releasesong {
+      font-size:25%;
+      
+      
+    }
+    
+    #songlyric {
+        font-size: 75%;
+    }
+
+    .card {
+        width: 100%;
+    }
+  }
